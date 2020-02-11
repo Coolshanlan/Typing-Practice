@@ -1,0 +1,36 @@
+D:\Google 雲端硬碟\Project\The new cool game\bin\Debug\The new cool game.exe.config
+D:\Google 雲端硬碟\Project\The new cool game\bin\Debug\The new cool game.exe
+D:\Google 雲端硬碟\Project\The new cool game\bin\Debug\The new cool game.pdb
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The new cool game.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The_new_cool_game.Form1.resources
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The_new_cool_game.Properties.Resources.resources
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The new cool game.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The new cool game.exe
+D:\Google 雲端硬碟\Project\The new cool game\obj\Debug\The new cool game.pdb
+D:\Google硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe.config
+D:\Google硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe
+D:\Google硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.pdb
+D:\Google硬碟\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Form1.resources
+D:\Google硬碟\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Properties.Resources.resources
+D:\Google硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csproj.GenerateResource.Cache
+D:\Google硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.exe
+D:\Google硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.pdb
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe.config
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.exe
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.pdb
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\bin\Debug\The new cool game.pdb
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Form1.resources
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\bin\Debug\The new cool game.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\bin\Debug\The new cool game.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Form1.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The_new_cool_game.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The new cool game.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The new cool game.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\小宇小遊戲\The new cool game\obj\Debug\The new cool game.pdb
